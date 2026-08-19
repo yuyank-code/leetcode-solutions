@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuyank-code/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/yuyank-code/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/yuyank-code/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
