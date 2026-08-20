@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yuyank-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
