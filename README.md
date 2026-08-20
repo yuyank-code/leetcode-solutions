@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuyank-code/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/yuyank-code/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1796-second-largest-digit-in-a-string](https://github.com/yuyank-code/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yuyank-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/yuyank-code/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
