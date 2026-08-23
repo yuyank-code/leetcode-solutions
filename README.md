@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yuyank-code/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuyank-code/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yuyank-code/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yuyank-code/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
