@@ -10,5 +10,6 @@ public:
                 nums[j]=temp;            }
         }
      }
+    // sort(nums.begin(),nums.end());
     }
 };
