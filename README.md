@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuyank-code/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/yuyank-code/leetcode-solutions/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yuyank-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuyank-code/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/yuyank-code/leetcode-solutions/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/yuyank-code/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yuyank-code/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
