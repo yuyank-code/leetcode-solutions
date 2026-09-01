@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yuyank-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/yuyank-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/yuyank-code/leetcode-solutions/tree/master/0258-add-digits) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuyank-code/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/yuyank-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/yuyank-code/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/yuyank-code/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [1796-second-largest-digit-in-a-string](https://github.com/yuyank-code/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yuyank-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yuyank-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yuyank-code/leetcode-solutions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
