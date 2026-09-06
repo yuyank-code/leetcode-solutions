@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yuyank-code/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/yuyank-code/leetcode-solutions/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/yuyank-code/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yuyank-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/yuyank-code/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yuyank-code/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/yuyank-code/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yuyank-code/leetcode-solutions/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yuyank-code/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
