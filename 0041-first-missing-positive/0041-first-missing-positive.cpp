@@ -20,28 +20,42 @@
 //         return largest + 1;
 //     }
 // };
-class Solution {
-public:
-    int firstMissingPositive(vector<int>& nums) {
-        int n = nums.size();
+// class Solution {
+// public:
+//     int firstMissingPositive(vector<int>& nums) {
+//         int n = nums.size();
 
-        vector<int> hash(n + 1, 0);
+//         vector<int> hash(n + 1, 0);
 
-        // Mark the numbers that exist
-        for (int x : nums) {
-            if (x > 0 && x <= n) {
-                hash[x]++;
+//         for (int x : nums) {
+//             if (x > 0 && x <= n) {
+//                 hash[x]++;
+//             }
+//         }
+
+//         for (int i = 1; i <= n; i++) {
+//             if (hash[i] == 0) {
+//                 return i;
+//             }
+//         }
+//         return n + 1;
+//     }
+// };
+class Solution{
+    public:
+    int firstMissingPositive(vector<int>&nums){
+        int n=nums.size();
+        vector<int>temp(n+1,0);
+        for(int x:nums){
+            if(x>0 &&x<=n){
+                temp[x]++;
             }
         }
-
-        // Find the first positive number that is missing
-        for (int i = 1; i <= n; i++) {
-            if (hash[i] == 0) {
+        for(int i=1;i<=n;i++){
+            if(temp[i]==0){
                 return i;
             }
         }
-
-        // If 1...n are all present
-        return n + 1;
+        return n+1;
     }
 };
