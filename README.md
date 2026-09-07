@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yuyank-code/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/yuyank-code/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/yuyank-code/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/yuyank-code/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yuyank-code/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/yuyank-code/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
