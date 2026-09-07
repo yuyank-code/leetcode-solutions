@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yuyank-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/yuyank-code/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yuyank-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0202-happy-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yuyank-code/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yuyank-code/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/yuyank-code/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/yuyank-code/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yuyank-code/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
