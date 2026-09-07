@@ -1,29 +1,51 @@
-class Solution {
-public:
-    vector<int> plusOne(vector<int>& digits) {
+// class Solution {
+// public:
+//     vector<int> plusOne(vector<int>& digits) {
 
-        int carry = 1;
+//         int carry = 1;
 
-        for (int i = digits.size() - 1; i >= 0; i--) {
+//         for (int i = digits.size() - 1; i >= 0; i--) {
 
-            int sum = digits[i] + carry;
+//             int sum = digits[i] + carry;
 
-            if (sum >= 10) {
-                digits[i] = 0;
-                carry = 1;
+//             if (sum >= 10) {
+//                 digits[i] = 0;
+//                 carry = 1;
+//             }
+//             else {
+//                 digits[i] = sum;
+//                 carry = 0;
+//                 return digits;
+//             }
+//         }
+
+//         // If carry is still 1, all digits were 9
+//         if (carry == 1) {
+//             digits.insert(digits.begin(), 1);
+//         }
+
+//         return digits;
+//     }
+// };
+class Solution{
+    public:
+    vector<int>plusOne(vector<int>&digits){
+        int carry =1;
+        for(int i=digits.size()-1;i>=0;i--){
+            int sum=digits[i]+carry;
+            if(sum>=10){
+                digits[i]=0;
+                carry=1;
             }
-            else {
-                digits[i] = sum;
-                carry = 0;
+            else{
+                digits[i]=sum;
+                carry=0;
                 return digits;
             }
         }
-
-        // If carry is still 1, all digits were 9
-        if (carry == 1) {
-            digits.insert(digits.begin(), 1);
+        if(carry==1){
+            digits.insert(digits.begin(),1);
         }
-
         return digits;
     }
 };
