@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yuyank-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/yuyank-code/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yuyank-code/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/yuyank-code/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/yuyank-code/leetcode-solutions/tree/master/0258-add-digits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yuyank-code/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yuyank-code/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/yuyank-code/leetcode-solutions/tree/master/0120-triangle) |
@@ -226,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yuyank-code/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
