@@ -49,7 +49,8 @@ public:
             return;
         }
         for(int i=0;i<nums.size();i++){
-            if(!freq[i]){
+            // if(!freq[i]){
+            if (freq[i] == 0){
                 ds.push_back(nums[i]);
                 freq[i]=1;
                 solve(ds,nums,ans,freq) ;
