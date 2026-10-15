@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuyank-code/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/yuyank-code/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/yuyank-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/yuyank-code/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/yuyank-code/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yuyank-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yuyank-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yuyank-code/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/yuyank-code/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/yuyank-code/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yuyank-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yuyank-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yuyank-code/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/yuyank-code/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/yuyank-code/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
