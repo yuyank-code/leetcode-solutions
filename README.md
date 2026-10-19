@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yuyank-code/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuyank-code/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuyank-code/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/yuyank-code/leetcode-solutions/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuyank-code/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yuyank-code/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/yuyank-code/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yuyank-code/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuyank-code/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
